@@ -1,0 +1,6 @@
+/Users/brad/Projects/RockProject/RockProject/obj/x86/Debug/RockProject.csprojAssemblyReference.cache
+/Users/brad/Projects/RockProject/RockProject/obj/x86/Debug/RockProject.csproj.CoreCompileInputs.cache
+/Users/brad/Projects/RockProject/RockProject/bin/Debug/RockProject.exe
+/Users/brad/Projects/RockProject/RockProject/bin/Debug/RockProject.pdb
+/Users/brad/Projects/RockProject/RockProject/obj/x86/Debug/RockProject.exe
+/Users/brad/Projects/RockProject/RockProject/obj/x86/Debug/RockProject.pdb
